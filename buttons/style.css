@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1D1D1D;
+}
+.btn-group{
+    height: 400px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 3rem;
+}
+
+.btn {
+    color: white;
+    padding: .75rem 2.5rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.btn-beginner{
+    background-color: #4CAF50;
+}
+.btn-beginner:hover {
+    background-color: #60c365;
+}
+  
+.btn-intermediate {
+    background: linear-gradient(to right, #FF416C, #FF4B2B);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+  
+.btn-intermediate:hover {
+    transform: scale(1.1);
+}
+
+.btn-masterful {
+    background-color: #00b7ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    position: relative;
+    overflow: hidden;
+}
+  
+.btn-masterful .icon {
+    position: absolute;
+    top: 50%;
+    left: 8px;
+    transform: translateY(-50%);
+    font-size: 24px;
+}
+.btn-masterful .btn-txt{
+    padding-left: .5rem;
+}
+.btn-masterful:hover {
+    background-color: #018dc5;
+}
+  
+.btn-masterful:hover .icon {
+    animation: rotate 2s linear infinite;
+}
+  
+@keyframes rotate {
+    from {transform: translateY(-50%) rotate(0deg);}
+    to {transform: translateY(-50%) rotate(360deg);}
+}
+  
