@@ -6,14 +6,14 @@
 In this stage, we'll cover fundamental projects like Buttons, Drop-down Menus, Profile Cards, and more. By completing these projects, you'll gain hands-on experience in HTML, CSS, and JavaScript basics, allowing you to establish a solid foundation for your coding journey. 🚀🔧
 
 - Buttons
-    - [Source Code]()
-    - [Live demo]()
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/buttons)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/buttons/)
 - Drop down menu
-    - [Source Code]()
-    - [Live demo]()
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/drop%20down%20menu)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/drop%20down%20menu)
 - Sidebar Menu
-    - [Source Code]()
-    - [Live demo]()
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/Sidebar%20Menu)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/Sidebar%20Menu)
 - Search Bar
 - Loaders
 - Text Animation
