@@ -17,12 +17,12 @@ body {
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    column-gap: 4px;
-    width: 150px;
-    height: 150px;
+    column-gap: 5px;
+    height: 200px;
+    width: 200px;
     background-color: #fff;
     border-radius: 1rem;
-    padding-bottom: 2rem;
+    padding-bottom: 4rem;
 }
 
 
