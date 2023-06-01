@@ -39,7 +39,7 @@ p {
     width: 100%;
     text-align: center;
 }
-span {
+.animated-text {
 
     font: 700 4em/1 "Oswald", sans-serif;
     letter-spacing: 0;
