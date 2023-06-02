@@ -3,7 +3,6 @@
 📢 Exciting news! Introducing our "50 Projects to Master Skills" series, designed to take your web development abilities to new heights. 🌟 Join us on this journey as we explore a wide range of projects that will enhance your skills and expand your coding repertoire. Let's dive in and level up! 💻✨
 
 🌱 Beginner Level:
-In this stage, we'll cover fundamental projects like Buttons, Drop-down Menus, Profile Cards, and more. By completing these projects, you'll gain hands-on experience in HTML, CSS, and JavaScript basics, allowing you to establish a solid foundation for your coding journey. 🚀🔧
 
 - Buttons
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/buttons)
@@ -15,8 +14,14 @@ In this stage, we'll cover fundamental projects like Buttons, Drop-down Menus, P
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/Sidebar%20Menu)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/Sidebar%20Menu)
 - Search Bar
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/Search%20Bar)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/Search%20Bar)
 - Loaders
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/loader)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/loader)
 - Text Animation
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/text%20animation)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/text%20animation)
 - Profile Cards
 - Product Cards
 - Pricing Cards
@@ -26,7 +31,6 @@ In this stage, we'll cover fundamental projects like Buttons, Drop-down Menus, P
 - Survey Form
 
 🔥 Intermediate Level:
-Ready to take your skills up a notch? Our intermediate projects include Responsive Navbars, Animated Counters, and Newsletter Subscription Forms. Through these projects, you'll sharpen your responsive design, layout structuring, and CSS animation skills. Get ready to create dynamic and engaging web components! 🌈🎨
 
 - Responsive Navbar
 - Animated Counter
@@ -40,7 +44,6 @@ Ready to take your skills up a notch? Our intermediate projects include Responsi
 - Login / Registration Form
 
 💡 Advanced Level:
-Now it's time to tackle more complex projects! CSS Grid-based Dashboards, Parallax Scrolling, and 3D Card Flip Animations are just a few examples of what you'll conquer at this stage. These projects will push your creativity and technical abilities, allowing you to master advanced CSS techniques and interactivity. 🎯🔩
 
 - Interactive Quiz
 - Drag and Drop Game
@@ -54,7 +57,6 @@ Now it's time to tackle more complex projects! CSS Grid-based Dashboards, Parall
 - 3D Card Flip Animation
 
 🚀 Expert Level:
-You've reached the expert level, where you'll delve into projects like CSS Image Filters, Animated SVG Icons, and Interactive Maps. These projects will refine your skills in fine-tuning design elements, optimizing performance, and implementing advanced CSS transformations. Get ready to amaze yourself! 🌟💡
 
 - CSS Image Filters
 - Animated Navigation Menu
@@ -68,7 +70,6 @@ You've reached the expert level, where you'll delve into projects like CSS Image
 - 3D Transformations and Transitions
 
 🎓 Master Level:
-Congratulations, you've made it to the final stage! The Master Level projects encompass advanced concepts such as Responsive Tabs, Animated Modal Popups, and CSS Masonry Layouts. By completing these projects, you'll demonstrate mastery in CSS intricacies, animation, and user experience. You're now a true web development maestro! 🎉👑
 
 - CSS-only Responsive Tabs
 - Animated Sticky Header
