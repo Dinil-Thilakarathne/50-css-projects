@@ -76,7 +76,8 @@
 - Animated Modal Popup
 - Custom Scrollbar Styles
 - Pure CSS Slideshow
-- CSS Image Gallery with Lightbox
+- CSS Image Gallery with Lightbox-z
+ 
 - CSS-only Accordions
 - CSS Masonry Layout
 - CSS Animated Backgrounds
