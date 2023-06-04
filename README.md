@@ -23,6 +23,8 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/text%20animation)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/text%20animation)
 - Profile Cards
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/profile%card)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/profile%card)
 - Product Cards
 - Pricing Cards
 - Footers
