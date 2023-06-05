@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,213,255,1);
+    font-family: 'poppins';
+    position: relative;
+}
+.product-card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+.product-image img {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+  
+.product-details {
+    padding: 20px;
+}
+.detail-top{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.product-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+  
+.product-description {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 10px;
+}
+  
+.product-price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e63946;
+    margin-bottom: 10px;
+}
+  
+.product-button {
+    background-color: #457b9d;
+    color: #fff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.product-button:hover {
+    background-color: #1d3557;
+}
+
+.section{
+    margin: 15px 0;
+}
+.size-section {
+    width: 100%;
+}
+.radio-group{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.section input[type='radio']{
+    margin-right: 5px;
+    cursor: pointer;
+}
+.section label{
+    margin-right: 20px;
+}
+
+.radio-group-2  input[type='radio'] {
+    display: none;
+}
+  
+.radio-group-2  input[type='radio'] + label {
+    position: relative;
+    padding-left: 30px;
+    cursor: pointer;
+}
+  
+.color-section  input[type='radio'] + label::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.color-section  input[type='radio']:nth-child(1) + label::before {
+    border: 2px solid #e63946;
+}
+.color-section  input[type='radio']:nth-child(3) + label::before {
+    border: 2px solid #39e677;
+}
+.color-section  input[type='radio']:nth-child(5) + label::before {
+    border: 2px solid #397ee6;
+}
+.color-section  input[type='radio']:nth-child(1):checked  + label::before {
+    background-color: #e63946;
+}
+.color-section  input[type='radio']:nth-child(3):checked  + label::before {
+    background-color: #39e677;
+}
+.color-section  input[type='radio']:nth-child(5):checked  + label::before {
+    background-color: #397ee6;
+}
+
+  
