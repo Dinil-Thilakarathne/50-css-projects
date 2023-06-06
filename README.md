@@ -26,6 +26,8 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/profile%card)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/profile%card)
 - Product Cards
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/product%card)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/product%card)
 - Pricing Cards
 - Footers
 - Flip Card
