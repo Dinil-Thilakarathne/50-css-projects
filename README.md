@@ -23,11 +23,11 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/text%20animation)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/text%20animation)
 - Profile Cards
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/profile%card)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/profile%card)
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/profile%20card)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/profile%20card)
 - Product Cards
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/product%card)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/product%card)
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/product%20card)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/product%20card)
 - Pricing Cards
 - Footers
 - Flip Card
