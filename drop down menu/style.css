@@ -54,6 +54,7 @@ body{
     background-color: white;
     border: none;
     font-size: 1.1rem;
+    margin-inline: auto;
 }
 .item-icon{
     font-size: 1.5rem;
@@ -70,6 +71,18 @@ button:focus ~ .dropdown-menu {
     display: block;
 }
 
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
 
+@media (max-width:768px) {
+    .dropdown{
+        width: 350px;
+    }
+    .menu-item{
+        width: 320px;
+    }
+}
 
   
