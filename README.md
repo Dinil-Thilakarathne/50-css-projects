@@ -29,6 +29,8 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/product%20card)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/product%20card)
 - Pricing Cards
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/pricing%20cards)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/pricing%20cards)
 - Footers
 - Flip Card
 - Modal/Popup CSS
