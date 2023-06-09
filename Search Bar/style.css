@@ -26,7 +26,12 @@ body {
 .search-box:hover{
     width: 400px;
 }
-  
+@media (max-width:768px) {
+    .search-box:hover{
+        width: 320px;
+    }
+}
+
 .search-box input[type="text"] {
     flex-grow: 2;
     height: 100%;
@@ -61,4 +66,7 @@ body {
     font-size: 1.5rem;
 }
   
-  
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
