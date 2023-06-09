@@ -17,6 +17,7 @@ body {
     position: relative;
 } 
 .pricing-cards {
+    padding: 50px 0;
     display: flex;
     justify-content: center;
     gap: 15px;
@@ -92,4 +93,10 @@ body {
 .attribute{
     position: absolute;
     bottom: 10px;
+}
+
+@media (max-width:768px) {
+    .pricing-cards{
+        flex-direction: column;
+    }
 }
