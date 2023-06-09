@@ -63,6 +63,11 @@ body {
   animation-delay: 1.25s;
 }
 
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
+
 @keyframes animation {
     0%, 100% {
       transform: translateY(25%);

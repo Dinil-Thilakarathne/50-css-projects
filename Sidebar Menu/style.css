@@ -57,3 +57,12 @@ li:hover {
 .item-txt{
     padding-left: .5rem;
 }
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
+@media (max-width:768px) {
+    .container{
+        width: 350px;
+    }
+}
