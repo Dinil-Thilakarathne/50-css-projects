@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,213,255,1);
+    font-family: 'poppins';
+    position: relative;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+  
+.modal {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 350px;
+    opacity: 0;
+    transform: translateY(-50px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+  
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.modal-content {
+    margin-top: 20px;
+}
+  
+.open-modal-btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+}
+.open-modal-btn:focus ~ .modal-overlay{
+    opacity: 1;
+    visibility: visible;
+}
+.open-modal-btn:focus ~ .modal-overlay .modal{
+    opacity: 1;
+    transform: translateY(0);
+}
+.close-modal-btn {
+    background-color: transparent;
+    border: none;
+    color: #333;
+    font-size: 24px;
+    cursor: pointer;
+}
+  
+.close-modal-btn:hover {
+    color: #f00;
+}
+.close-modal-btn:focus ~ .modal-overlay{
+    opacity: 0;
+    visibility: hidden;
+}
+
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
