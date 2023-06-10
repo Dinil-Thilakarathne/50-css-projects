@@ -35,6 +35,8 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/footer)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/footer)
 - Flip Card
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/flip%20card)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/flip%20card)
 - Modal/Popup CSS
 - Survey Form
 

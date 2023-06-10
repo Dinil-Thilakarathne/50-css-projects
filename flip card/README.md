@@ -1,4 +1,4 @@
-# Footer
+# Flip card
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -8,10 +8,10 @@
 - [Contact](#contact)
 
 ## Project Overview:
- - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/footer)
-- [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/footer)
+- [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/flip%20card)
+- [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/flip%20card)
 
-This project is a creative and modern footer section designed using HTML and CSS. It includes a responsive layout that adapts to different screen sizes, making it suitable for mobile devices as well.
+The project aims to create a modern and creative flip card with card content. It uses HTML and CSS to achieve the desired design and interaction. The flip card provides an engaging way to present information or showcase products. The front side displays an image, while the back side contains relevant content, such as a title, description, and call-to-action button. The flip animation adds an interactive touch, allowing users to explore the card further. This component can be used in various contexts, such as portfolios, product showcases, or feature displays. It is fully responsive and adaptable for mobile devices, ensuring a seamless user experience across different screen sizes.
 
 
 ## Usage
@@ -39,7 +39,7 @@ For any inquiries or feedback, please reach out to me through the following chan
 - YouTube : [@sonacode](https://www.youtube.com/@sonacode/videos)
 - GitHub : [Dinil Thilakarathne](https://github.com/Dinil-Thilakarathne/)
 - Instagram : [@sona_code](https://www.instagram.com/sona_code/)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+<!-- - LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/) -->
 
 Feel free to connect with me and let's discuss the project or any other interesting ideas!
 
