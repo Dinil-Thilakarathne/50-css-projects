@@ -8,8 +8,8 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/model-popup)
-- [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/model-popup)
+- [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/modal-popup)
+- [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/modal-popup)
 
 The project aims to create a creative and modern modal/popup using only HTML and CSS. The modal opens when the "Open Modal" button is clicked and displays a title, content, and a close button. The modal has a clean and elegant design, with a semi-transparent overlay and centered alignment. It provides a visually appealing and user-friendly way to present additional information or interactive elements without navigating away from the main page.
 
