@@ -38,8 +38,8 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/flip%20card)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/flip%20card)
 - Modal/Popup CSS
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/model-popup)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/model-popup)
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/modal-popup)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/modal-popup)
 - Survey Form
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/survey%20form)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/survey%20form)
