@@ -47,6 +47,8 @@
 🔥 Intermediate Level:
 
 - Responsive Navbar
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/responsive%20navbar)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/responsive%20navbar)
 - Animated Counter
 - Blog Layout
 - Image Carousel
