@@ -62,9 +62,7 @@ button[type="submit"] {
     cursor: pointer;
 }
   
-button[type="submit"]:hover {
-    background-color: #555;
-}
+
   
 .attribute{
     position: absolute;
