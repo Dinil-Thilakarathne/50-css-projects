@@ -50,6 +50,8 @@
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/responsive%20navbar)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/responsive%20navbar)
 - Animated Counter
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/animated%20loader)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/animated%20loader)
 - Blog Layout
 - Image Carousel
 - Timeline
