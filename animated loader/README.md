@@ -1,4 +1,4 @@
-# Pure CSS Responsive navbar
+# Animated Loader
 
 ## Table of Contents
 - [Project Overview](#project-overview)
