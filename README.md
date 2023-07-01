@@ -52,8 +52,12 @@
 - Animated Counter
     - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/animated%20loader)
     - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/animated%20loader)
-- Blog Layout
+- Grid Layout
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/grid%20layout)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/grid%20layout)
 - Image Carousel
+    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/image%20carousel)
+    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/image%20carousel)
 - Timeline
 - Social Media Icons
 - Animated Buttons
