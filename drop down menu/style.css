@@ -27,7 +27,7 @@ body{
     border: none;
     border-radius: .5rem;
     cursor: pointer;
-    width: 350px;
+    width: 400px;
 }
   
 .dropdown-menu {
@@ -56,7 +56,6 @@ body{
     background-color: white;
     border: none;
     font-size: 1.1rem;
-    margin-inline: auto;
 }
 .item-icon{
     font-size: 1.5rem;

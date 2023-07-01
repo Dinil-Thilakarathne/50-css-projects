@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  width: 500px;
+  width: 350px;
   height: 400px;
   display: flex;
   align-items: center;
@@ -41,7 +41,7 @@ p {
 }
 .animated-text {
 
-    font: 700 4em/1 "Oswald", sans-serif;
+    font: 700 3.5em/1 "Oswald", sans-serif;
     letter-spacing: 0;
     padding: .25em 0 .325em;
     display: block;
