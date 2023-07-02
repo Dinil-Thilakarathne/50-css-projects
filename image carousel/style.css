@@ -79,5 +79,9 @@ body {
 .carousel__slides{
     transform: translateX(-66.66%);
 }
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
 
   

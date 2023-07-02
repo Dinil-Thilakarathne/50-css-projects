@@ -131,3 +131,7 @@ body{
         width: 150px;
     }
 }
+.attribute{
+    position: absolute;
+    bottom: 10px;
+}
