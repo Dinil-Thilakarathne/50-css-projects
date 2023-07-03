@@ -30,7 +30,7 @@ body{
 .social-icon-list{
     height: 100px;
     width: 500px;
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
     border-radius: 20px;
     display: grid;
     grid-template-columns: repeat(4,1fr);
@@ -38,7 +38,7 @@ body{
     align-items: center;
     column-gap: 20px;
     padding: 0 20px;
-    box-shadow: var(--container-shadow);
+    /* box-shadow: var(--container-shadow); */
     background-color: var(--container-bg-color);
 }
 
