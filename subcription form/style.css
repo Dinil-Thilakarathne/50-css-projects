@@ -1,0 +1,62 @@
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+:root{
+    --clr-bg: rgba(0,213,255,1);
+    --clr-primary: rgba(39, 94, 254, 0.82);
+    --clr-secondary: rgba(39, 94, 254, 0.62);
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    font-family: 'Roboto', Arial;
+    justify-content: center;
+    align-items: center;
+    column-gap: 40px;
+    background: var(--clr-bg);
+    overflow: hidden;
+}
+.subscription-form {
+    min-width: 350px;
+    text-align: center;
+    background-color: #ccc;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+    border-radius: 20px;
+}
+  
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+h2 span{
+    color: var(--clr-primary);
+}
+input[type="email"] {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+  
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: var(--clr-primary);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: all .25s ease-in;
+}
+  
+button[type="submit"]:hover {
+    background-color: var(--clr-secondary);
+}
+  
