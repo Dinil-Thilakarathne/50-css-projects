@@ -1,16 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
 *:before,
 *:after {
     box-sizing: inherit;
 }
 :root{
-    --clr-bg: rgba(0,213,255,1);
+    --clr-bg: #0A2647;
     --clr-primary: rgba(39, 94, 254, 0.82);
     --clr-secondary: rgba(39, 94, 254, 0.62);
 }
 body {
     min-height: 100vh;
     display: flex;
-    font-family: 'Roboto', Arial;
+    font-family: 'poppins', Arial;
     justify-content: center;
     align-items: center;
     column-gap: 40px;
