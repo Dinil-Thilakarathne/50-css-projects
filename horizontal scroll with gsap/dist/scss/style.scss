@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@200;400;700&display=swap');
+
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: 'Poppins';
+    background-color: #25224d;
+}
+.wrapper {
+    overflow-x: hidden;
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+.container {
+    display: flex;
+    width: 300vw;
+
+    .col {
+        display: flex;
+        gap: 3em;
+        
+        p {
+            font-size: .8rem;
+        }
+    }
+
+    section {
+        width: 100vw;
+        padding: 20vw 10vw;
+        
+        .col{
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            background-color: #9898af;
+        }
+
+        span{
+            color: #6a65c0;
+            font-weight: bold;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin: 0;
+            color: #fad000;
+        }
+
+        p {
+            font-size: 1.2rem;
+            width: 50vw;
+        }
+
+        ul {
+            list-style-type: none;
+            display: flex;
+            gap: 3em;
+            width: 100%;
+            height: 300px;
+            padding: 0;
+
+            li {
+                background: white;
+                border-radius: .3em;
+                flex-grow: 1;
+            }
+        }
+
+    }
+}
+
+
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    border-radius: 5px;
+    background-color: #fad000;
+}
