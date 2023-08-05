@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    width: 100%;
+    overscroll-behavior: none;
+    min-height: 100%;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+h1 { 
+    font-size: 7rem; 
+    font-family: 'Bebas Neue';
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    margin: 0;
+    color: #2b2b2b;
+    &.active{
+        color: white;
+
+    }
+}
+section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+
+
+    @media (min-width:768px) {
+        & {
+            grid-template-columns: repeat(4,1fr);
+            &.top{
+                height: 70vh;
+            }
+            &.bottom{
+                height: 40vh;
+            }
+        }
+    }
+}
+
+.img {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    background-size: cover;
+    z-index: -1;
+    transform: scale(0) rotate(45deg);
+    @media (min-width:768px) {
+        & {
+            height: 700px;
+        }
+    }
+
+    &:nth-of-type(1) {background-image: url('https://cdn.pixabay.com/photo/2022/07/11/08/44/tower-7314495_1280.jpg');}
+    &:nth-of-type(2) {background-image: url('https://cdn.pixabay.com/photo/2013/10/05/17/06/silhouette-191102_640.jpg');}
+    &:nth-of-type(3) {background-image: url('https://cdn.pixabay.com/photo/2013/10/05/18/13/railroad-191128_640.jpg');}
+    &:nth-of-type(4) {background-image: url('https://cdn.pixabay.com/photo/2013/11/19/10/51/big-flower-213169_640.jpg');}
+    &:nth-of-type(5) {background-image: url('https://cdn.pixabay.com/photo/2018/05/09/08/41/coast-3384845_640.jpg');}
+    &:nth-of-type(6) {background-image: url('https://cdn.pixabay.com/photo/2013/09/23/15/06/polonnaruwa-185290_640.jpg');}
+    &:nth-of-type(7) {background-image: url('https://cdn.pixabay.com/photo/2013/08/25/15/17/leading-line-175732_640.jpg');}
+    &:nth-of-type(8) {background-image: url('https://cdn.pixabay.com/photo/2017/08/23/21/41/sri-lanka-2674418_640.jpg');}
+
+
+}
+
